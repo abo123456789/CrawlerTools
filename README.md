@@ -40,5 +40,5 @@
 * [cookiepool](https://github.com/Python3WebSpider/CookiesPool) -可扩展的Cookies池
 
 ## 贡献者
-欢迎大家积极贡献自己认为不过的爬虫解决方案相关的框架包! 
+欢迎大家积极贡献自己使用过的爬虫解决方案相关的框架包! 
 - - -
