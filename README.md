@@ -20,14 +20,24 @@
 * [proxy_pool](https://github.com/jhao104/proxy_pool) - python代理池维护
 
 ### 数据解析
-* [request-html](https://github.com/psf/requests-html) - 简单易用的静态html页面解析框架
-* [GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 智能提取新闻网页正文标题图片
+* 手动解析
+    * [request-html](https://github.com/psf/requests-html) - 简单易用的静态html页面解析框架
+    * [rbeautifulsoup](https://github.com/waylan/beautifulsoup) - 语法非常简单的静态html页面解析框架
+
+    
+* 智能解析
+    * [GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 智能提取新闻网详情页页正文标题图片
+    * [GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 智能提取列表页标题,文本,链接
+
+    
 
 ### 验证码识别
 * [cnn_captcha](https://github.com/nickliqian/cnn_captcha) - 深度学习实现的验证码识别项目
 
 ### 爬虫管理监控
 * [scrapyd](https://github.com/scrapy/scrapyd)  - scrapy爬虫管理工具
+* [supervisor](https://github.com/Supervisor/supervisor)  - 爬虫进程管理工具
+
 
 ### 文件上传下载
 *文件上传下载的工具集*
