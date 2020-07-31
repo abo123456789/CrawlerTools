@@ -28,8 +28,6 @@
     
 * 智能解析
     * [GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 智能提取新闻网详情页页正文标题图片
-    * [GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 智能提取列表页标题,文本,链接
-
     
 
 ### 验证码识别
