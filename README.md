@@ -18,6 +18,7 @@
 
 ### IP代理池维护
 * [proxy_pool](https://github.com/jhao104/proxy_pool) - python代理池维护
+* [proxypool_framework](https://github.com/jhao104/proxypool_framework) - 一条命令搭建IP代理池,很容易使用的代理池
 
 ### 数据解析
 * 手动解析
