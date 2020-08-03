@@ -7,7 +7,7 @@
 ### 分布式框架
 
 * [celery](https://github.com/celery/celery) - 分布式任务框架
-* [RedisQueue](https://github.com/abo123456789/RedisQueue) - 高性能redis分布式任务框架
+* [redis-queue-tool](https://github.com/abo123456789/redis-queue-tool) - 高性能redis分布式任务框架
 * [distributed_framework](https://github.com/ydf0509/distributed_framework) - 集成多种中间件的分布式任务框架
 
 ### 爬取框架
