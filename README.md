@@ -48,7 +48,7 @@
 ### 其它相关工具
 * [cookiepool](https://github.com/Python3WebSpider/CookiesPool) -可扩展的Cookies池
 * [cerberus](https://github.com/pyeve/cerberus) -轻量级的JSON数据格式校验工具
-
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) 可以结合python代码的抓包工具
 
 ## 贡献者
 欢迎大家积极贡献自己使用过的爬虫解决方案相关的框架包! 
