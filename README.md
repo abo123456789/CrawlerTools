@@ -28,7 +28,9 @@
     
 * 智能解析
     * [GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 智能提取新闻网详情页页正文标题图片
-    
+
+### 数据存储
+* [mongoengine](https://github.com/MongoEngine/mongoengine)  - mongodb数据映射方式写入数据  
 
 ### 验证码识别
 * [cnn_captcha](https://github.com/nickliqian/cnn_captcha) - 深度学习实现的验证码识别项目
