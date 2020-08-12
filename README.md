@@ -13,6 +13,9 @@
 ### 爬取框架
 * [scrapy](https://github.com/scrapy/scrapy) - 高性能web爬取框架
 
+### 网络请求
+* [aiohttp](https://github.com/aio-libs/aiohttp) 异步HTTP客户端请求框架
+
 ### 日志记录
 * [py-log](https://github.com/abo123456789/py-log) - 支持钉钉,邮件,文件,线程和进程安全的日志工具包
 
