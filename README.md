@@ -27,6 +27,8 @@
 * 手动解析
     * [request-html](https://github.com/psf/requests-html) - 简单易用的静态html页面解析框架
     * [beautifulsoup](https://github.com/waylan/beautifulsoup) - 语法非常简单的静态html页面解析框架
+    * [pyquery](https://github.com/gawel/pyquery) - python实现jquery解析语法工具包
+
 
     
 * 智能解析
