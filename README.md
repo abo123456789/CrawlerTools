@@ -52,9 +52,13 @@
 * 下载
     * [FileDownloader](https://github.com/lingochamp/FileDownloader) - 并发下载工具
 
+### 数据格式校验工具
+* [cerberus](https://github.com/pyeve/cerberus) -轻量级的JSON数据格式校验工具(性能有待提升)
+* [voluptuous](https://github.com/alecthomas/voluptuous) -轻量级的JSON数据格式校验工具
+
+
 ### 其它相关工具
 * [cookiepool](https://github.com/Python3WebSpider/CookiesPool) -可扩展的Cookies池
-* [cerberus](https://github.com/pyeve/cerberus) -轻量级的JSON数据格式校验工具
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) 可以结合python代码的抓包工具
 
 ## 贡献者
